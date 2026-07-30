@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![yabtaour's 42 stats](https://badge.mediaplus.ma/binary/yabtaour)](https://github.com/oakoudad/badge42)
-[![yabtaour's 42 stats](https://github-readme-stats.vercel.app/api?username=yabtaour)](https://github.com/yabtaour/github-readme-stats)
-[![yabtaour's 42 stats](https://myreadme.vercel.app/api/embed/yabtaour?panels=toprepositories&panels=userstatistics&panels=toplanguages&panels=commitgraph&panels=userwelcome)]
 <!--(https://myreadme.vercel.app/api/embed/yabtaour)-->
